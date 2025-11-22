@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.51.0
 openai-whisper
 pydub
 librosa
 soundfile
 numpy
 scikit-learn
+pandas
 requests
-
