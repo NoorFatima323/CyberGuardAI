@@ -1,7 +1,9 @@
 streamlit
-whisper
-librosa
-numpy
-soundfile
+openai-whisper
 pydub
+librosa
+soundfile
+numpy
+scikit-learn
 requests
+
