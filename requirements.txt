@@ -1,0 +1,7 @@
+streamlit
+whisper
+librosa
+numpy
+soundfile
+pydub
+requests
